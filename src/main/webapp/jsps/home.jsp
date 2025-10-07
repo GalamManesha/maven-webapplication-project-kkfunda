@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to manesha makeovers khammam</h1>
+<h1 align="center">Welcome to manesha makeovers khammam khanapuram</h1>
 <h1 align="cente"> khammam khanapuram balaji nagar</h1>
 <hr>
 <br>
